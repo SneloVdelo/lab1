@@ -1,0 +1,3 @@
+hero: Belka blood healther
+villain: viper sword kill infeno illizion
+monster: krip bot
